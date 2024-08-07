@@ -1,21 +1,19 @@
-.body{
- padding: 0%;
- margin: auto;
+.body {
+ padding: auto;
+margin: 0%;
 }
 
 .cabeçalho{
-
- background-color: forestgreen;
- margin: 5%;
- padding: 10px ;
- text-align: center;
-
-
+ background-color: chocolate;
+margin: 5%;
+padding: 10px;
+text-align: center;
 }
 
-.informações{ 
+.informações {
 
-    background-color: teal;
-
-    
+background-color: darkolivegreen;
+margin: 16px;
+padding: 10px;
+text-align: justify;
 }
